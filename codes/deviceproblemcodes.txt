@@ -1,0 +1,1704 @@
+401|Absorber (CO2)
+402|Actuator
+403|Alarm
+404|Alarm, Assembly
+405|Alarm, Audible
+407|Alarm, High Inspiratory Pressure
+408|Alarm, LED
+409|Alarm, Low Inspiratory Pressure
+410|Alarm, Oxygen Pressure
+411|Alarm, Power
+412|Alarm, Pressure
+413|Alarm, Visual
+414|Alarm, Volume
+416|Display
+417|Bacterial Filter
+418|Ball
+419|Balloon
+420|Battery
+422|Breathing Circuit
+423|Cable, Electrical
+424|Cap
+425|Cassette
+426|Charger
+427|Circuit Board
+428|CO2 Monitor
+429|CO2 Monitor Subassembly (Only Use When Part Of Another Device)
+430|Wire
+431|Adapter (Adaptor)
+432|Seal
+435|Connector
+436|Control Switches
+437|CPU (Central Processing Unit) Board
+438|CRT (Cathode Ray Tube)
+439|Cusp/Leaflet
+440|Cylinder
+441|Cylinder Valve
+443|Defibrillator Subassembly (Only Use When Part Of Another Device)
+444|User Interface
+445|Diaphragm
+447|Diode
+448|Discrete Electrical Component
+449|EKG/ECG Subassembly (Only Use When Part Of Another Device)
+450|EKG/ECG Monitor
+451|Electrode
+452|Electrical Lead/Wire
+454|EPROM (Erasable Programmable Read Only Memory)
+455|Exhalation Filter
+456|Fail-Safe System
+457|Flange
+458|Flowmeter
+459|Foot Switch
+460|Function Indicator
+461|Gas Scavenging
+462|Gauges/Meters
+463|Guidewire
+464|Header
+465|Heart Valve Cage
+466|Heart Valve Leaflet
+467|Heater
+468|Hollow Fiber
+469|Hub
+470|Humidifier
+471|Hybrid Circuit
+472|IC (Integrated Circuit) Chip
+473|Insulation
+474|IC (Integrated Circuit)
+475|Keyboard/Keypad
+476|Lead Conductor
+477|LED (Light Emitting Diode)
+478|Limit Switch
+479|Lithium Iodide Battery
+480|Logic Board
+481|Luer Valve
+482|Magnet
+483|Manifold
+484|Membrane
+485|Motherboard
+486|Motor(s)
+487|O2 Monitor Subassembly (Only Use When Part Of Another Device)
+488|Obturator
+490|Oximeter (Only Use When Part Of Another Device)
+491|Oxygen Analyzer
+492|PC (Printed Circuit) Board
+493|Pilot Balloon Valve
+494|Pivot
+495|Port
+496|Potentiometer
+497|Power Cord
+498|Power Supply
+499|Power Switch
+500|Pressure Sensor
+501|Pressure Tubing
+503|PROM (Programmable Read Only Memory)
+504|Prong
+505|RAM (Random Access Memory)
+507|Recorder (Tape, Stripchart, Etc.)
+508|Relay
+509|ROM (Read Only Memory)
+510|Sensor
+511|Solder Joint
+512|Solenoid
+514|Spirometer
+515|Stent
+516|Stepper Motor
+517|Stopcock
+518|Stylet
+519|Switches
+520|Telemetry
+522|Transducer
+523|Transformer
+524|Transistor
+525|Tube
+527|Valve(s)
+529|Control Valve
+530|Valve, Directional
+531|Valve, Exhalation
+532|Valve, Flap
+533|Valve, Flow
+534|Valve, Inhalation
+535|Valve, Inlet Port
+536|Valve, Inspiratory
+537|Valve, Outlet Port
+538|Valve, PEEP (Positive End Expiratory Pressure)
+539|Valve, Pressure Limit
+540|Valve, Relief
+541|Safety Valve
+542|Valve, Selector
+543|Vaporiser
+544|Wiring Harness
+545|Y-Piece Connector
+546|Optical Fiber
+547|Thermocouple Wire
+548|Accumulator
+549|Air Pump Assembly
+550|Alarm, Self
+551|Servo
+552|Air Cleaner
+553|Bag
+554|Bottom Dead Center Sensor Bracket
+555|Capacitor
+556|Cascade
+557|Compressor
+558|Concentrator
+559|Conductor Coil
+560|Connecting Rod
+561|Crank Arm Assembly
+562|Cuff
+563|Cup Seal
+564|Function Lid
+565|Gears
+566|Heater Rod
+567|Helifix Coil
+568|Screw
+569|Interconnection Board Intubate
+571|Locking Sleeve
+572|Lower Piston Bearing
+573|Meter Needle
+574|Motor Roll Pin
+575|Overlay
+576|Piston Guides
+577|Piston Heads
+578|Piston Pads
+579|Plug
+580|Power Lamp
+581|Pressure Signal
+582|Reed (Electrically Open)
+583|Retaining Pin
+584|Seal Tracheal
+585|Terminal Assembly
+586|Tip Conductor Coil
+587|Capillary Tube
+588|VDT (Video Display Terminal)
+589|Valve, Dump
+590|Alternator
+591|Altimeter
+592|Amplifier
+593|Analyzer
+594|Annunciator
+595|Antenna
+596|Arrester
+597|Attenuator
+598|Backpanel
+599|Backplane
+730|Baffle
+731|Ballast
+732|Barrier
+733|Beam Splitter
+734|Bearings
+735|Bell
+736|Buzzer
+737|Belt
+738|Blower
+739|Bobbin
+740|Bolometer
+741|Bolt
+742|Brake
+743|Brush
+745|Bus
+746|Bushing
+747|Calibrator
+748|Camera
+749|Cannula, Inner
+750|Cannula, Outer
+752|Carrier
+753|Caster
+754|Cell
+755|Chassis/Frame
+756|Choke
+757|Clamp
+758|Clip
+759|Clock
+760|Coder
+761|Coil
+762|Collimator
+763|Comparator
+764|Contact Lens
+765|Controller
+766|Converter
+768|Cord
+769|Core
+770|Counter
+771|Coupler
+772|Cover
+773|Crystal
+774|Cup
+775|Current Limiter
+776|Current Source
+777|Cutter/Blade
+778|Damper
+779|Data Acquisition Unit
+780|Decoder
+781|Dehumidifier
+782|Dehydrator
+783|Delay Line
+784|Demagnetizer
+785|Demodulator
+786|Densitometer
+787|Detector
+788|Device Deployer
+789|Dial
+790|Digitizer
+791|Disk
+792|Divider
+793|Dome
+794|Doubler
+795|Driver
+796|Duct
+797|Dummy Load
+798|Duplexer
+799|Emitter
+800|Enclosure
+801|Encoder
+802|Endoscope
+803|Equalizer
+804|Evaporator
+805|Expander
+806|Extender
+807|Extractor
+808|Eyelet
+809|Fan
+810|Fastener
+811|Feedthru
+812|Ferrule
+813|FET (Field Effect Transistor)
+814|Fiber
+815|Film
+816|Filter
+817|Flasher
+818|Foil
+819|Foot Pedal
+820|Frame
+821|Furnace
+822|Fuse
+823|Gasket
+825|Generator
+826|Grille
+827|Grommet
+828|Ground Strap/Wire
+829|Guide
+830|Handset
+831|Headphone
+832|Heads
+833|Headset
+834|Heart Valve Sewing Ring
+835|Heat Exchanger
+836|Heat Sink
+837|Hinge
+838|Holder
+839|Housing
+840|Igniter
+841|Imager
+842|Impedance Converter
+843|Indexer
+844|Indicator
+845|Inductor
+846|Integrator
+847|Intercom
+848|Interface
+849|Interrupter
+850|Inverter
+851|IOL (Intraocular Lens) Implant
+852|Isolator
+853|Jack
+854|Joint
+855|Joystick
+856|Jumper
+857|Junction
+858|Keyer
+859|Keypad
+860|Kit
+861|Knob
+862|Label
+863|Laminate
+864|Lamp
+865|Laser
+866|Lenses
+867|Limiter
+868|Line Conditioner
+869|Load
+870|Lock
+871|Magazine
+872|Magnetizer
+873|Magnetometer
+874|Magnetoresistor
+875|Magnifier
+876|Matrices
+877|Memory/Storage
+879|Microcircuit
+880|Microphone
+881|Microscope
+882|Mirror
+883|Mixer
+884|Modem
+885|Modulator
+886|Monitor
+887|Mount
+888|Multiplier
+889|Nebulizer (Only Use When Part Of Another Device)
+890|Network Interface
+891|Nut
+892|O2 Sensor
+893|Optical Disk
+894|Optical Cable
+895|Optocoupler
+896|Oscillator
+897|Oscilloscope
+898|Outlet
+899|Oven
+900|Pad
+901|Panel
+902|Photodetector
+903|Photomultiplier
+904|Phototransistor
+905|Pickup
+906|Pin
+907|Plate
+908|Plotter
+910|Pointer
+911|Polarizer
+912|Post
+913|Power Module
+914|Preamplifier
+915|Prescaler
+916|Preselector
+917|Printer
+918|Probe
+919|Processor
+920|Device Programmer
+921|Protector
+922|Proximity Switch
+923|Pulley
+924|Pulser
+925|Pump
+926|Pyrometer
+927|Rail
+928|Reactor
+929|Device Reader
+930|Receiver
+931|Rectifier
+932|Regulator
+933|Repeater
+934|Reservoir
+935|Resistor
+937|Resonator
+938|Retainer
+939|Reticle
+941|Rheostat
+942|Ribbon
+943|Ring
+944|Rivet
+945|Robot
+946|Rod
+947|Safety Interlock
+948|Scaler
+949|Scale
+950|Scanner
+951|Scintillometer
+952|Scrambler
+953|Screen
+954|Scriber
+955|Shaft
+956|Shield
+957|Shift Register
+958|Shifter
+959|Shunt
+960|Shutter
+961|Signal Conditioner
+962|Simulator
+963|Slide
+964|Slip Ring
+965|Slotter Line
+966|Socket Adaptor
+967|Socket
+968|Sound Absorber
+969|Spacer
+970|Spark Gap
+971|Speaker/Sounder
+972|Spectrometer
+973|Splicer
+974|Spooler
+975|Spring
+976|Stabilizer
+977|Stand
+978|Stiffener
+979|Strain Relief
+980|Strip Line
+981|Substrate
+982|Sunlamp
+983|Suppressor
+984|SAW (Surface Acoustic Wave Device)
+985|Synchronizer
+986|Synthesizer
+987|Syringe
+989|Tachometer
+990|Tape for Fixation
+991|Tee
+992|Telephone
+993|Teleprinter
+994|Teletypewriter
+995|Television Unit
+996|Temperature Compensator
+997|Terminal
+998|Terminator
+999|Thermistor
+1000|Thermocouple
+1018|Voltmeter
+1023|None
+1028|Jaw
+1030|Latch
+3028|Absorber
+3029|Air Eliminator
+3030|Applicator
+3031|Automatic Injection System
+3032|Battery Charger
+3033|Bed, Assist Bar
+3034|Bolus Mechanism
+3035|Bubble Sensor
+3036|Cannula
+3037|Cannula Guide
+3038|Catheter
+3039|Cautery Tip
+3040|Circuit Breaker
+3041|Computer Hardware
+3042|Concentrate
+3043|Connector Pin
+3044|Cooling Module
+3045|Counterbalance
+3046|CPU (Central Processing Unit Of Computer System)
+3047|Cutter-Torque Cable
+3048|Deionizer
+3049|Device Component Or Accessory
+3050|Device Ingredient or Reagent
+3051|Device Subassembly
+3052|Electrical Wire
+3053|Electrode Contact
+3054|Emergency Button Or Switch
+3055|Emergency Table Stop
+3056|Endoscopic Accessory
+3057|External Fiberoptic
+3058|Fiberguide
+3059|Fiberoptic
+3060|Fiberoptic Cladding
+3061|Fiberoptic Cleaver
+3062|Film Cartridge
+3063|Film Processor
+3064|Function Indicator Light
+3065|Gas Delivery System
+3066|Hand Immobilizer
+3067|Handpiece
+3068|Handrest
+3069|Haptic
+3070|Hemo Valve
+3071|Hermetic Seal
+3072|Hose
+3073|Hose Line
+3074|Hydraulic Bed System
+3075|Hydraulic System
+3076|Injection System
+3077|Intravenous Pole
+3078|Laser Nozzle
+3079|Patient Lead
+3080|Lead Tip
+3082|Leaflet Disk
+3083|Locking Mechanism
+3084|Lockout Mechanism
+3085|Mechanism
+3086|Motion Detector
+3087|Motor Drive Unit
+3088|Needle
+3092|Nozzle
+3093|Nozzle Tip
+3094|One-Way Valve
+3095|Pallet
+3096|Photomultiplier (PM) Tube
+3097|Pipette
+3098|Plunger
+3099|Probe, Transducer Pressure
+3100|Rate Modulated Pacing Sensor
+3101|Receiver Stimulator Unit
+3102|Screw Head
+3103|Screw Tapper
+3104|Sediment Filter
+3105|Shock Capacitor
+3106|Shoulder Support
+3107|Side Rail
+3108|Speech Processor
+3109|Spring Loading Mechanism
+3110|Staple
+3111|Steering Wire
+3112|Stopcock Valve
+3113|Surgical Graft
+3114|Suture Thread
+3115|Syringe Drive
+3116|System
+3117|Table
+3118|Table Top
+3119|Temperature Probe
+3120|Temperature Sensor
+3121|Test Strip
+3122|Thread
+3123|Tip
+3124|Tomographic Pallet
+3125|T-Piece Connector
+3126|Trocar
+3127|Unit
+3128|Water Purification System
+3129|Wedge Filter
+3130|Wheel
+3131|Wheelchair, Tires
+3132|Wheelchair, Wheels
+3135|Thyristor
+3136|Timer
+3137|Trackball
+3138|Transceiver
+3139|Translator
+3140|Transmission Line
+3141|Transmitter
+3142|Transponder
+3143|Transport
+3144|Triac
+3145|Trimmer
+3146|Tuner
+3147|Varistor
+3148|Vibrator
+3149|Viewer
+3150|Washer
+3151|Waveguide
+3152|Window
+3153|Yoke
+3154|Switch, Push Button
+3155|Valve Cam
+3156|Knife
+3157|Pusher
+3158|Thermometer
+3159|Thermostat
+3194|Adhesive
+3195|Weld
+4702|Monomer Liquid
+4703|Polymer Powder
+4705|Cable Grip
+4706|Cable Sleeve
+4707|Computer Software
+4708|Driver
+4709|Software Interface
+4710|Headphone/Headset
+4711|Pressure Transducer Probe
+4712|Switch/Relay
+4713|User Input Device
+4715|Aperture
+4716|Manometer
+4717|Marker
+4718|Sensor Probe
+4720|Anchor
+4721|Rod/Shaft
+4722|Shock Absorber
+4723|Sleeve
+4724|Stopper
+4725|Trap
+4726|Bottle
+4727|Cable, Mechanical/Structural
+4728|Cannula Hub
+4729|Catheter Hub
+4730|Chain
+4731|Chamber
+4732|Cone
+4733|Connector/Coupler
+4734|Ejector
+4735|Equipment Pole
+4736|Fan/Blower
+4737|Fixation Wire
+4738|Nail
+4739|Gas Exchanger
+4740|Sewing Ring
+4741|Impeller
+4742|Inserter
+4743|Liner
+4744|Magazine/Cassette
+4745|Mask
+4746|Mesh
+4747|Packaging
+4749|Light Source
+4750|Bulb
+4752|Protector/Shield
+4753|Needle Stick Prevention Mechanism
+4755|Part/Component/Sub-assembly Term not Applicable
+4756|Appropriate Term/Code Not Available
+4757|Computer Processor
+4758|Electrical Mixer
+4759|Electrical Port
+4760|Patient Electrode
+4761|Access Port
+4762|Mechanical Mixer
+4763|Semiconductor
+4764|Touchscreen
+4765|Cuvette
+4766|Bellows
+4767|Clutch
+4768|Coating Material
+4769|Device Collapser
+4770|Fabric
+4771|Lever
+4772|Potting
+4773|Rachet
+4774|Tool
+4775|Translational Motion Component
+1|Old To Be Deactivated
+1001|Failure To Run On AC/DC
+1002|Abnormal
+1003|Absorption
+1005|Measurements, inaccurate
+1006|Adaptor, failure of
+1007|Agglutinate, failure to
+1008|Air Leak
+1009|Alarm, failure of arterial pressure
+1010|Alarm, audible
+1015|Alarm, intermittent
+1017|Alarm, failure of low flow
+1020|Alarm, failure of fast heart rate
+1021|Alarm, no lead
+1024|Alarm, error of warning
+1025|Alarm, failure of warning
+1026|Altitude variations
+1027|Changes In Ambient Temperature In Device Environment
+1029|Antenna, failure of
+1031|Failure To Adhere Or Bond
+1033|Unintended Arm Motion
+1039|Artificial
+1040|Lens, aspherical
+1041|Aspiration, excessive
+1042|Aspiration, incomplete
+1043|Augmentation, loss of
+1045|Automatic injection system, incompatible
+1046|Automatic injection system overinfusion
+1049|Balloon rupture
+1050|Balloon asymmetrical
+1051|Balloon burst
+1052|Balloon leak(s)
+1053|Balloon mushroomed
+1054|Battery charger, defective
+1055|Battery failure
+1059|Bent
+1060|Bicarbonate
+1061|Lens, bifocal
+1063|Blank screen
+1067|Bolus mechanism failure
+1070|Bubble(s)
+1073|Burrs, breakage of
+1075|Cathode ray tube (CRT) failure
+1076|Cable break
+1078|Calibration Error
+1082|Carbon absorption
+1083|Cautery
+1084|Channeling
+1086|Charred
+1087|Chemical reaction
+1088|Circuit breaker tripped
+1090|Clean, failure to
+1092|Clearance
+1093|Fiberoptic cleaver, failure of
+1097|Coefficient error
+1098|Coiled
+1100|Collimator design problem
+1101|Colony forming units
+1102|Compatibility
+1103|Component(s), broken
+1104|Detachment Of Device Component
+1105|Component Falling
+1106|Component(s), overheating of
+1107|Component(s), worn
+1110|Computer failure
+1111|Computer hardware error
+1113|Concentrate
+1115|Conductivity
+1116|Connection error
+1117|Connector pin failure
+1118|Contact lens, problem with trial set
+1122|Continuous
+1124|Continuous mode failure
+1127|Cool, failure to
+1128|Coolant, contraindicated
+1129|Cooling system, failure of
+1132|Counterbalance break
+1134|Couple, failure to
+1136|Cross connection
+1138|Application Interface Becomes Non-Functional Or Program Exits Abnormally
+1139|Cuff degeneration
+1140|Cutoff point
+1141|Cutter-torque-cable twisted or tangled
+1143|Screw tapper, damaged
+1144|Declotting
+1147|Photomultiplier (PM) tube, defective
+1148|Deflation, cause unknown
+1150|Deflation due to capsulotomy
+1151|Deflation due to damage from surgical instrument
+1152|Deflation due to trauma
+1155|Deionizer, failure of
+1159|Deprimed
+1161|Design/structure problem
+1165|Dialysate
+1166|Dialyzer, failure of
+1168|Disassembly
+1172|Disengaged
+1176|Disinfection, inadequate/improper
+1178|Dislocated
+1179|Dislodged
+1180|Displacement
+1185|Disposable
+1186|Dissection
+1187|Distilled water, contaminated
+1188|Dome collapse
+1191|Drift
+1192|Dry, failure to
+1193|EKG/ECG analysis, failure to perform
+1195|Elective removal
+1196|Elective replacement
+1197|Shock, electrical
+1199|Electrode(s), failure of
+1200|Electrode contact(s), problem with
+1201|Electrode(s), degeneration of
+1202|Electrode(s), fracture of
+1203|Electrode(s), migration of
+1206|Emergency stop button or switch failure
+1207|Emergency table stop failure
+1208|Endoscopic accessory fire or melt
+1209|Energy Output To Patient Tissue Incorrect
+1215|Error or warning message, failure to produce
+1216|Device Expiration Issue
+1217|Explanted
+1218|Explode
+1219|External fiberoptic break
+1220|Needle, extra
+1221|Extraneous radiofrequency wave transmission
+1222|Fail-Safe Design Failure
+1223|Failure, intermittent
+1224|False claim
+1226|False Device Output
+1228|False Reading From Device Non-Compliance
+1229|Fiberoptic break/separation
+1230|Fiberguide incompatibility
+1231|Fiberoptic cladding material separation
+1232|Lens, deposits on
+1235|Film processing, inadequate
+1236|Filter
+1237|Filter leak(s)
+1238|Filter break(s)
+1242|Filter tear(s)
+1243|Filter, assembly
+1244|Filter, inadequate
+1247|Flammable
+1256|Footrest detachment
+1257|Footrest break
+1258|Footswitch failure
+1259|Foreign material
+1263|Function indicator light(s), failure of
+1264|Gain, inadequate
+1265|Gas delivery system failure
+1268|Germicide
+1269|Glass, shattered
+1272|Growth, will not support
+1274|Handpiece break
+1275|Handpiece detachment
+1276|Handrest detachment
+1277|Handrest break
+1278|Haptic(s), bent
+1279|Haptic(s), broken
+1280|Haptic(s), detached
+1281|Haptic(s), dislocated
+1282|Haptic(s), fractured
+1283|Head immobilizer failure
+1284|Unintended Head Motion
+1285|Heat
+1286|Heat, failure to
+1289|Hemofiltration
+1290|High flux rate
+1293|Hole In Material
+1294|Hose line occlusion
+1295|Hose line rupture
+1296|Hose mismatch
+1298|Hot Oil Leak
+1299|Hybrid failure
+1300|Hydraulic system failure
+1301|Hydrogen peroxide sterilization, explosion during
+1302|IV pole, detachment of parts from
+1303|Ignited
+1306|Image Resolution Poor
+1309|Disc, incomplete opening of
+1312|Injector system failure, no infusion
+1313|Injector system failure, overinfusion of
+1314|Injector system failure, underinfusion of
+1317|Installation error
+1320|Insulation degradation
+1321|Insulation, detached
+1322|Insulation, discolored
+1323|Insulation failure
+1325|Insulation, hole(s) in
+1326|Insulation, none
+1327|Interference
+1328|Interference with monitoring device
+1329|Interference with pacemaker
+1330|Interlumen communication
+1334|Intra-cavity procedure, fiberoptic break or fragmentation during
+1335|Intraprocedure, fire or flash during
+1338|Kinetic
+1339|Kinked
+1340|Knotted
+1342|Laser nozzle separation
+1343|Laser output above specifications
+1344|Laser output, unintended
+1345|Laser pulse timing error
+1346|Laser tip separation
+1347|Lead(s), breakage of
+1348|Lead(s), burn(s) from
+1349|Lead(s), electrocution from
+1350|Lead(s), fracture of
+1351|Lead(s), shock from
+1352|Leaflet disc escape
+1355|Leak(s) from hydraulic bed system
+1358|Image Reversal
+1359|Lens, cloudy
+1361|Lens, disc
+1362|Lens, discoloration of
+1363|Lens, malposition of
+1364|Lens, opacification of
+1365|Lens, repositioning of
+1366|Lens, vaulting
+1367|Lens washers, failure of
+1368|Linear
+1369|Lockout mechanism failure
+1370|Looping
+1372|Loose
+1373|Lubrication
+1374|Milliamps (MA) rate, unable to increase
+1375|Magnet failure
+1376|Magnet mode discrepancy
+1377|Unintended Magnet Quench
+1378|Magnetic interference
+1379|Device Maintenance Issue
+1381|Markings unclear
+1382|Markings, none
+1387|Device Abrasion From Instrument Or Another Object
+1390|Membrane leak(s)
+1391|Membrane tear(s)
+1392|Meter
+1393|Method, improper/incorrect
+1396|Mineralization
+1397|Misapplication
+1402|Mislabeled
+1403|Mislocation
+1404|Misplacement
+1406|Monitor display alarm, failure of
+1407|Monitor failure
+1409|Motor failure
+1410|Motor drive unit (MDU) stalled or jammed
+1411|Lens, multifocal
+1414|Needle, dull
+1415|Needle, separation
+1416|Needle, unsheathed
+1418|Non-linear
+1419|Nonpyrogenic
+1422|Normal
+1423|Occlusion Within Device
+1424|Occlusion, incorrect
+1433|Output, high
+1434|Output, low
+1445|Pallet break
+1446|Pallet crack(s)
+1448|Paramagnetic
+1450|Paravalvular leak(s)
+1455|Percutaneous
+1456|Performance
+1458|Phantom problem
+1459|Pierce
+1461|Plugged
+1462|Plunge
+1464|Poor gas exchange
+1465|Port leak(s)
+1467|Difficult To Position
+1469|Potency
+1470|Potentiometer readings, high
+1471|Potentiometer readings, low
+1477|Pre Or Post-Pumping Problem
+1479|Precision
+1485|Premature explantation
+1486|Premature system activation
+1488|Prep, failure to
+1489|Pressure sensor failure
+1493|Probe failure
+1495|Incorrect Software Programming Calculations
+1497|Program, failure to
+1505|Pyrogenic
+1507|R on T phenomenon
+1509|Radiation exposure, unintended
+1511|Radio Signal Problem
+1512|Accuracy rate
+1513|Rate modulated pacing sensor, failure of
+1514|Reaction
+1518|Recannulation
+1519|Receiver failure
+1520|Receiver stimulator unit, failure of
+1523|Regenerate
+1526|Device remains implanted
+1527|Device, or device fragments remain in patient
+1529|Repair
+1530|Replace
+1531|Reservoir
+1533|Resistance, inadequate
+1534|Resistance, loss of
+1537|Reuse
+1538|Reverse osmosis
+1541|Rhythm, failure to diagnose
+1542|Failure to override rhythm
+1545|Runaway
+1547|Rupture due to capsulotomy
+1548|Rupture, cause unknown
+1549|Rupture, fold or crease due to
+1550|Rupture due to damage from surgical instrument
+1552|Rupture due to trauma
+1553|Saline, use of homemade
+1554|Salt tablet(s), use of
+1555|Seal, incorrect
+1556|Sediment filter problems
+1560|Sensitivity
+1561|Sensor problems
+1563|Failure To Service
+1564|Inadequate Service
+1565|Shaft break
+1566|Shaft, split
+1567|Shelf Life Exceeded
+1569|Shielding, inadequate
+1571|Shock counters, resetting of
+1572|Shock, failure to advise
+1576|Shoulder rest, detachment of
+1577|Shoulder support, detachment of
+1578|Shunts, failure of
+1579|Shutter failure
+1580|Side rails, failure of
+1586|Source, detachment from
+1587|Source, leak(s) from
+1588|Source, incorrect
+1589|Specificity
+1590|Speech processor failure
+1591|Spillage, accidental
+1592|Spring loading mechanism problem
+1594|Steering wire problem
+1595|Sterility
+1597|Sticking
+1599|Device Stops Intermittently
+1600|Inadequate Storage
+1602|Strut fracture
+1603|Stuck in inspiratory or expiratory phase
+1605|Superheat
+1606|Supplier
+1607|Suture line disruption
+1608|Suture line separation
+1611|Syringe drive problem
+1612|Syringe, defective
+1613|Syringe, hole(s) in
+1614|Syringe markings inaccurate
+1615|Alarm system, failure of message-battery status
+1616|Alarm system, failure of message-check electrode
+1617|Alarm system, failure of message-leads off
+1618|Alarm system, failure of message-service
+1619|System fails to activate
+1620|Alarm system, failure of check-catheter
+1621|Alarm system, failure of gas-leak/loss
+1622|Table, tilting
+1623|Table incrementation incorrect
+1624|Table top motion, unintended
+1625|Table break
+1626|Table collapse
+1627|Tap water, use of
+1628|Tears, rips, holes in device, device material
+1630|Test strips, incompatible
+1632|Threader failure
+1635|Timer failure
+1637|Timer malfunction
+1638|Tip breakage
+1639|Tomographic pallet crack(s)
+1640|Lens, toric
+1641|Torqued
+1642|Tracking
+1644|Transducer overheating
+1645|Transducer probe overheating
+1646|Transducer failure
+1647|Transmitter failure
+1648|Trocar failure
+1649|Trocar/fiber incompatibility
+1650|Trocar/instrument incompatibility
+1651|Tube(s), exploding of
+1652|Tube(s), shattering of
+1653|Tube(s), splitting of
+1654|Tubing, incorrect placement of
+1655|Twisting
+1657|Ultraviolet
+1658|Ultraviolet absorbing
+1659|Uncoiled
+1660|Undercorrection
+1662|Unit inactivated
+1663|Device Inoperable
+1665|Source, unretracted
+1668|Unwrap, difficult to
+1671|Vacuum, loss of
+1672|Valve(s), failure of
+1673|Valve(s), sticking
+1676|Warning light, incorrect
+1677|Water softener process, failure of
+1678|Water treatment
+1679|Wedge filter problem
+1680|Wedge, difficult to
+1681|Screw head(s), incorrect
+1682|Wavelength, incorrect
+1734|Automatic injection system, failure to infuse
+1746|Blood in tubing
+1804|Metal Shedding Debris
+1919|IUD (intrauterine contraceptive device), removal of
+1920|IV catheter pull out
+1934|Lens (IOL), dislocated intraocular
+1935|Lens (IOL), migration of intraocular
+2031|Radiation underexposure
+2043|Respirator, detachment from
+2151|Film processor failure
+2154|Implant extrusion
+2157|Interlock(s), failure of
+2158|Lens aberration, distortion of
+2160|Motion detector failure
+2163|Noise
+2167|Safety interlock(s) inadequate
+2184|Lens replacement
+2203|Other (for use when an appropriate device code cannot be identified)
+2204|Unknown (for use when the device problem is not known)
+2286|Algorithms, inconsistent
+2290|Blood gas measurements, erroneous
+2291|Semiautomatic code, failure to override
+2293|Invalid Sensing
+2294|Electrical wires, defective
+2295|Water softener regeneration cycle, mistiming of
+2296|Temperature probe, loose
+2297|Bubble detector, failure of
+2298|Valve(s), defective
+2299|Tube(s), defective
+2300|Air eliminator, defective
+2301|Seal, defective
+2302|Cable, defective
+2304|Stopcock valve, failure of
+2305|Burn hole(s)
+2307|Automatic injection system underinfusion
+2309|Device Rinsing Issue
+2310|Specialty beds, rips/tears in
+2311|Out-Of-Box Failure
+2313|Radiation overexposure
+2315|Water purification system, failure of
+2318|Blood pooling
+2319|Cardiac enzyme evaluation, erroneous
+2320|Implant, removal of
+2321|Implant, repositioning of
+2322|Implant, reprogramming of
+2323|Surgical graft, failure of
+2342|Overdelivery
+2343|Underdelivery
+2345|Electro-magnetic interference (EMI), compatibility/incompatibility
+2346|Tube(s), buckling of
+2347|Wire(s), breakage of
+2379|Device Issue
+2381|Laparoscopic sterilization
+2382|Meter failure
+2383|Internal fixation, revision of
+2384|Lens implant
+2386|Alarm, failure of high inspiratory pressure
+2387|Alarm, failure of low inspiratory pressure
+2391|Pressure, insufficient
+2405|Syringe markings, incorrectly placed
+2409|Malfunction
+2410|Miscalibration
+2412|Dissatisfaction
+2413|Leaflet fracture
+2424|Patch test, abnormal results of
+2425|pH, low
+2454|Cut In Material
+2456|Incorrect Or Inadequate Test Results
+2504|Deterioration of prosthesis
+2505|End of prosthetic life
+2508|Paravalvular leak
+2527|Excessive Manipulation
+2531|Labeling, missing
+2537|Split
+2538|Strikethrough
+2540|Leaflet disruption, cause unknown
+2555|Endarterectomy suture breakage
+2567|Fibrosis
+2568|Leaflet disruption due to suture abrasion
+2576|Clips, scissored
+2578|Physical Resistance
+2581|Year 2000 (Y2K) related problem
+2584|Low Battery
+2585|Pipette, failure to aspirate
+2590|Device Or Device Fragments Location Unknown
+2592|Fuse, blown
+2593|Locking mechanism failure
+2594|Sharp/jagged/rough/etched/scratched
+2608|Device, removal of (non-implant)
+2609|Close, difficult to
+2611|Balloon pinhole
+2612|Catheter withdrawal interference
+2614|Wrinkled
+2615|Visibility/palpability
+2618|Extrusion, impending
+2619|Fluid/volume, increased
+2622|Lead tip breakage at implant, fragments remain in ventricle
+2623|Suspect EMI
+2624|No telemetry
+2625|Unable to interrogate
+2627|Complete heart block
+2629|Exit block
+2630|Folded
+2631|Lens (IOL), line, crease on
+2632|Lens (IOL), nicked, chipped
+2633|Lens (IOL), scratch, mark on
+2634|Lens (IOL), torn, split, cracked
+2635|Lens (IOL), defective, problem not specified
+2636|Unfold, difficult to
+2637|Lens, stuck in cartridge
+2638|Lens, damaged by cartridge
+2644|Lens, difficulty loading into cartridge
+2645|Implant Mobility NOS (Not otherwise specified)
+2646|Implant breakage or physical damage
+2647|Implant overload
+2648|Applicator failure
+2649|Hermetic seal, loss of
+2650|Color Variation, Lens
+2651|Lens Issue, No Description
+2652|Lens, Stuck to Itself
+2653|Misshaped Lens (Warped, not round)
+2654|Folding Issue
+2656|Optic Edge Issue
+2657|Haptic Issue, No Description
+2658|Haptic, Kinked
+2659|Haptic, Stuck to Optic
+2660|Haptic, Missing
+2661|Nozzle Tip Issue, No Description
+2662|Nozzle Tip, Stressed, Split
+2663|Nozzle Tip, Rough
+2664|Delivery System Issue, No Description
+2665|Lens Damaged in Delivery System
+2666|Lens Stuck in Delivery System
+2667|Haptic Damaged in Delivery System
+2668|Haptic Stuck in Delivery System
+2669|Plunger Issue, No Description
+2670|Plunger not Aligned Properly
+2671|Plunger Override
+2672|Cannula Guide Issue, No Description
+2673|Cannula Guide, Needle Insertion Difficult
+2674|Cannula Guide, Difficult to Locate
+2675|Immediate/early load (prior to four - six month traditional time period)
+2676|Transitional use
+2677|Traditional use
+2678|Intended use of immediate/early load
+2679|Intended use for transitional use
+2680|Intended use for traditional use
+2681|Unable to confirm conditions of use
+2851|Date-related problem, year 2000 (Y2K)
+2883|Aspiration Issue
+2884|Battery Impedance Issue
+2887|Biological Environmental Factor
+2894|Chemical Spillage
+2904|Delamination
+2905|Delivery System Failure
+2908|Device Contamination With Biological Material
+2909|Device Disinfection Or Sterilization Issue
+2913|Device Operates Differently Than Expected
+2914|Device Operational Issue
+2916|Device Packaging Compromised
+2928|Electronic Property Issue
+2931|Escape
+2934|Extrusion
+2935|Facilities Issue
+2940|Failure To Unwrap
+2943|Flashpoint Threshold Met
+2948|Human Factors Issue
+2951|Improper Alarm
+2953|Improper Device Output
+2955|Inaccurate Dispensing
+2957|Inadequate Lighting
+2962|Incorrect Device Or Component Shipped
+2963|Incorrect Error Code
+2967|Issue With Displayed Error Message
+2972|Light Interference
+2974|Maintenance Does Not Comply To Manufacturers Recommendations
+2977|Material Distortion
+2980|Material Torqued
+2987|Mushroomed
+3008|Physical Property Issue
+3014|Programming Issue
+3021|Sediment, Precipitate Or Deposit In Device Or Device Ingredient
+3024|Torn Material
+3192|Missing Value Reason
+4001|Patient Device Interaction Problem
+2682|Patient-Device Incompatibility
+2886|Biocompatibility
+1524|Device Appears to Trigger Rejection
+1583|Inadequacy of Device Shape and/or Size
+3003|Osseointegration Problem
+1863|Failure to Osseointegrate
+2408|Loss of Osseointegration
+4002|Loosening of Implant Not Related to Bone-Ingrowth
+1395|Migration or Expulsion of Device
+2933|Expulsion
+4003|Migration
+2975|Manufacturing, Packaging or Shipping Problem
+1506|Product Quality Problem
+2407|Dull, Blunt
+1420|Nonstandard Device
+2292|Defective Component
+2588|Defective Device
+2284|Device Damaged Prior to Use
+3007|Packaging Problem
+2922|Difficult to Open or Remove Packaging Material
+2312|Incomplete or Missing Packaging
+1444|Unsealed Device Packaging
+2385|Tear, Rip or Hole in Device Packaging
+2912|Device Misassembled During Manufacturing /Shipping
+4004|Component Misassembled
+2306|Component Missing
+1570|Shipping Damage or Problem
+1421|Delivered as Unsterile Product
+2893|Chemical Problem
+1425|Device Emits Odor
+2910|Device Ingredient or Reagent Problem
+1095|Clumping in Device or Device Ingredient
+1096|Coagulation in Device or Device Ingredient
+1478|Precipitate in Device or Device Ingredient
+1137|Cross Reactivity
+1451|Particulates
+2426|High pH
+4005|Low pH
+4055|Unexpected Color
+2952|Improper Chemical Reaction
+2978|Material Integrity Problem
+1069|Break
+1260|Fracture
+1068|Loss of or Failure to Bond
+1261|Material Fragmentation
+2324|Solder Joint Fracture
+1074|Burst Container or Vessel
+4006|Explosion
+1135|Crack
+1153|Degraded
+1077|Calcified
+1131|Corroded
+1214|Material Erosion
+1460|Pitted
+1246|Flaked
+1454|Peeled/Delaminated
+2988|Naturally Worn
+1664|Unraveled Material
+2976|Material Deformation
+2889|Deformation Due to Compressive Stress
+2526|Dent in Material
+1255|Failure to Fold
+1669|Failure to Unfold or Unwrap
+1262|Material Frayed
+1336|Material Invagination
+1544|Material Too Rigid or Stiff
+4007|Material Too Soft/Flexible
+2981|Material Twisted/Bent
+1385|Melted
+1601|Stretched
+4056|Thickening of Material
+1170|Material Discolored
+1177|Material Disintegration
+1426|Material Opacification
+2205|Material Perforation
+1504|Material Puncture/Hole
+2979|Material Protrusion/Extrusion
+1546|Material Rupture
+1562|Material Separation
+4008|Material Split, Cut or Torn
+3020|Scratched Material
+1384|Mechanical Problem
+2907|Detachment of Device or Device Component
+2915|Device Damaged by Another Device
+4009|Ejection Problem
+4010|Failure to Eject
+1234|Unintended Ejection
+1354|Leak/Splash
+1250|Fluid Leak
+2946|Gas Leak
+1267|Gel Leak
+1357|Radiation Leak
+1457|Perivalvular Leak
+4011|Firing Problem
+2610|Failure to Fire
+2532|Misfire
+2983|Mechanical Jam
+2984|Mechanics Altered
+2522|Failure to Align
+2587|Failure to Cut
+1142|Failure to Cycle
+2579|Failure to Form Staple
+3273|Noise, Audible
+4012|Physical Resistance/Sticking
+1536|Retraction Problem
+2506|Structural Problem
+1099|Collapse
+4013|Sharp Edges
+1254|Difficult to Fold, Unfold or Collapse
+2921|Difficult to Open or Close
+2507|Incomplete Coaptation
+3026|Unintended Movement
+2923|Device Dislodged or Dislocated
+2589|Device Tipped Over
+4014|Device Fell
+1584|Device Slipped
+1429|Unintended Collision
+1430|Unintended System Motion
+1667|Unstable
+1674|Vibration
+4057|Inadequate Lubrication
+3001|Optical Problem
+1401|Misfocusing
+1360|Optical Decentration
+2999|Optical Discoloration
+3000|Optical Distortion
+3002|Optical Obstruction
+1198|Electrical /Electronic Property Problem
+2891|Capturing Problem
+1081|Failure to Capture
+3266|High Capture Threshold
+1080|Intermittent Capture
+3269|Unstable Capture Threshold
+1123|Continuous Firing
+2583|Arcing
+1032|Arcing at Paddles
+2289|Arcing of Electrodes
+2595|Sparking
+2885|Battery Problem
+2947|Battery Problem: High Impedance
+2973|Battery Problem: Low Impedance
+1466|Failure to Run on Battery
+1057|Premature Discharge of Battery
+2892|Charging Problem
+2288|Aborted Charge
+2586|Delayed Charge Time
+1085|Failure to Charge
+1169|Failure to Discharge
+3010|Power Problem
+4015|Complete Loss of Power
+4016|Intermittent Loss of Power
+1476|Failure to Power Up
+1162|Unintended Power Up
+2917|Device Sensing Problem
+2534|Decreased Sensitivity
+2535|Increased Sensitivity
+1539|Failure to Analyze Signal
+1582|Failure to Select Signal
+2574|High Sensing Threshold
+2575|Low Sensing Threshold
+1633|Loss of Threshold
+1559|Failure to Sense
+1438|Over-Sensing
+1661|Under-Sensing
+1558|Sensing Intermittently
+1543|Incorrect Interpretation of Signal
+1114|Failure to Conduct
+4017|Interrogation Problem
+1331|Difficult to Interrogate
+1332|Failure to Interrogate
+1439|Pacing Problem
+1540|Failure to Convert Rhythm
+1609|Inaccurate Synchronization
+2536|Inappropriate Waveform
+3268|No Pacing
+1440|Pacemaker Found in Back-Up Mode
+1441|Pacing Asynchronously
+1442|Pacing Inadequately
+1443|Pacing Intermittently
+1463|Pocket Stimulation
+1573|Defibrillation/Stimulation Problem
+1133|Failure to Deliver Shock/Stimulation
+1574|Inappropriate/Inadequate Shock/Stimulation
+2287|Intermittent Shock/Stimulation
+4018|Unintended Electrical Shock
+1271|Grounding Malfunction
+2924|Electrical Overstress
+2149|Electro-Static Discharge
+2939|Failure to Shut Off
+1525|Device Remains Activated
+4019|Unexpected Shutdown
+2927|Electromagnetic Compatibility Problem
+1194|Electromagnetic Interference
+2314|Radiofrequency Interference (RFI)
+1089|Circuit Failure
+1079|Capacitative Coupling
+2926|Electrical Shorting
+1121|Intermittent Continuity
+2950|Impedance Problem
+1291|High impedance
+2285|Low impedance
+2890|Calibration Problem
+2440|Failure to Calibrate
+1517|Failure to Recalibrate
+1307|Imprecision
+3006|Overcorrection
+4058|Undercorrection
+3005|Output Problem
+4020|Audible Prompt/Feedback Problem
+2280|Inappropriate Audible Prompt/Feedback
+2283|Inaudible or Unclear Audible Prompt/Feedback
+2282|No Audible Prompt/Feedback
+1184|Display or Visual Feedback Problem
+2591|Device Displays Incorrect Message
+1181|Display Difficult to Read
+1182|Erratic or Intermittent Display
+1304|Image Display Error/Artifact
+1305|Image Orientation Incorrect
+1183|No Display/Image
+4021|No Visual Prompts/Feedback
+1408|Poor Quality Image
+2281|Visual Prompts will not Clear
+4022|Tactile Prompts/Feedback
+4023|Inappropriate Tactile Prompt/Feedback
+4024|No Tactile Prompts/Feedback
+1431|Energy Output Problem
+1210|Energy Spectrum Incorrect
+1211|Failure to Deliver Energy
+4025|Intermittent Energy Output
+1432|Output above Specifications
+3004|Output below Specifications
+3023|Therapeutic or Diagnostic Output Failure
+1508|Therapy Delivered to Incorrect Body Area
+4026|Radiation Output Problem
+4027|Radiation Output Failure
+3017|Radiation Overexposure
+3018|Radiation Underexposure
+4028|Unexpected/Unintended Radiation Output
+1266|Gas Output Problem
+1435|No Device Output
+1535|Incorrect, Inadequate or Imprecise Resultor Readings
+1036|Signal Artifact/Noise
+2533|Failure to Obtain Sample
+1225|False Negative Result
+1227|False Positive Result
+1383|Incorrect Measurement
+4029|Non Reproducible Results
+2459|High Readings
+2460|Low Readings
+2457|High Test Results
+2458|Low Test Results
+1516|Unable to Obtain Readings
+3267|Missing Test Results
+4059|Erratic Results
+1631|Unexpected Therapeutic Results
+3022|Temperature Problem
+2932|Excessive Cooling
+4030|Excessive Heating
+1130|Insufficient Cooling
+1287|Insufficient Heating
+1437|Overheating of Device
+1071|Thermal Decomposition of Device
+1245|Fire
+2942|Flare or Flash
+1585|Smoking
+1112|Computer Software Problem
+2879|Application Network Problem
+2880|Application Program Problem
+4031|Application Program Freezes, Becomes Nonfunctional
+1189|Application Program Problem: Dose Calculation Error
+3198|Application Program Problem: Medication Error
+1449|Application Program Problem: Parameter Calculation Error
+1473|Application Program Problem: Power Calculation Error
+2881|Application Program Version or Upgrade Problem
+3013|Problem with Software Installation
+4032|Unintended Application Program Shut Down
+4033|Program or Algorithm Execution Problem
+4034|Delayed Program or Algorithm Execution
+4035|Intermittent Program or Algorithm Execution
+4036|Program or Algorithm Execution Failure
+2898|Computer Operating System Problem
+2996|Operating System Becomes Nonfunctional
+2997|Operating System Version or Upgrade Problem
+2899|Computer System Security Problem
+2882|Application Security Problem
+3025|Unauthorized Access to Computer System
+2902|Data Back-Up Problem
+1047|Failure to Back-Up
+1048|Failure to Convert to Back-Up
+3196|Data Problem
+2903|Loss of Data
+3197|Patient Data Problem
+2582|Date/Time-Related Software Problem
+2900|Connection Problem
+2888|Blocked Connection
+1145|Decoupling
+1171|Disconnection
+2541|Failure to Disconnect
+1371|Loose or Intermittent Connection
+1399|Misconnection
+4037|Incomplete or Inadequate Connection
+2183|Fitting Problem
+2896|Communication or Transmission Problem
+1581|Failure to Read Input Signal
+1521|Failure to Transmit Record
+4038|Intermittent Communication Failure
+1629|Telemetry Discrepancy
+3283|Wireless Communication Problem
+2964|Infusion or Flow Problem
+1149|Deflation Problem
+4060|Failure to Deflate
+4061|Unintended Deflation
+1311|Excess Flow or Over-Infusion
+1233|Filling Problem
+1044|Inability to Auto-Fill
+2404|Overfill
+1575|Short Fill
+1675|Volume Accuracy Problem
+2941|Filtration Problem
+2308|Inadequate Filtration Process
+1656|Inadequate Ultra Filtration
+2954|Improper Flow or Infusion
+1064|Backflow
+2945|Free or Unrestricted Flow
+1270|Gradient Increase
+2339|Inaccurate Delivery
+1249|Inaccurate Flow Rate
+2341|Intermittent Infusion
+1522|Reflux within Device
+1248|Restricted Flow rate
+1634|Tidal Volume Fluctuations
+1310|Inflation Problem
+2182|Insufficient Flow or Under Infusion
+2991|No Flow
+2338|Failure to Deliver
+2340|Failure to Infuse
+1337|Inability to Irrigate
+2423|Obstruction of Flow
+1094|Complete Blockage
+1065|Partial Blockage
+1251|Difficult to Flush
+3012|Pressure Problem
+1490|Decrease in Pressure
+1491|Increase in Pressure
+2994|No Pressure
+3016|Pumping Problem
+1500|Decreased Pump Speed
+1501|Increased Pump Speed
+1502|Failure to Pump
+1503|Pumping Stopped
+2170|Suction Problem
+1146|Decrease in Suction
+1604|Increase in Suction
+4039|Suction Failure
+4040|Priming Problem
+1492|Failure to Prime
+4041|Incomplete or Inadequate Priming
+4062|Air/Gas in Device
+2906|Activation, Positioning or SeparationProblem
+4042|Activation Problem
+3270|Activation Failure
+2577|Difficult or Delayed Activation
+1484|Premature Activation
+1557|Self-Activation or Keying
+4063|Key or Button Unresponsive/not Working
+3009|Positioning Problem
+1158|Positioning Failure
+2616|Malposition of Device
+1157|Difficult or Delayed Positioning
+2524|Failure to Advance
+2920|Difficult to Advance
+1316|Difficult to Insert
+1528|Difficult to Remove
+1212|Entrapment of Device
+4043|Separation Problem
+2547|Separation Failure
+4044|Difficult or Delayed Separation
+4045|Premature Separation
+3015|Protective Measures Problem
+1012|Device Alarm System
+1022|Alarm Not Visible
+1019|No Audible Alarm
+1016|Low Audible Alarm
+1011|Delayed Alarm
+1013|False Alarm
+1014|Defective Alarm
+2936|Fail-Safe Problem
+4046|Fail-Safe Did Not Operate
+2990|No Fail-Safe Mechanism
+2937|Failure of Device to Self-Test
+2938|Failure to Auto Stop
+3019|Reset Problem
+1532|Failure to Reset
+1683|Failure to Zero
+2959|Inappropriate or Unexpected Reset
+3011|Premature Indicator Activation
+1483|Premature Elective Replacement Indicator
+1480|Premature End-of-Life Indicator
+1568|Shielding Failure
+2960|Compatibility Problem
+2897|Component or Accessory Incompatibility
+1004|Accessory Incompatible
+1108|Component Incompatible
+2919|Device-Device Incompatibility
+2982|Measurement System Incompatibility
+4047|Unintended Compatibility
+2895|Contamination /Decontamination Problem
+1120|Contamination
+1062|Biofilm coating in Device
+2901|Contamination of Device Ingredient or Reagent
+2317|Device Contamination with Body Fluid
+2944|Device Contamination with Chemical or Other Material
+2303|Microbial Contamination of Device
+2969|Device Contaminated During Manufacture or Shipping
+1091|Device Reprocessing Problem
+4048|Failure to Clean Adequately
+1175|Failure to Disinfect
+1252|Flushing Problem
+1213|Problem with Removal of Enzymatic Cleaner
+1596|Problem with Sterilization
+2325|Residue After Decontamination
+4064|Device Contaminated at the User Facility
+2929|Environmental Compatibility Problem
+2877|Ambient Noise Problem
+2878|Ambient Temperature Problem
+2529|Fumes or Vapors
+2316|Fungus in Device Environment
+2986|Moisture or Humidity Problem
+1405|Moisture Damage
+3027|Ventilation Problem in Device Environment
+1253|Fogging
+2918|Device Unsafe to Use in Environment
+2930|Environmental Particulates
+2985|Medical Gas Supply Problem
+2925|Electrical Power Problem
+1205|Emergency Power Failure
+1475|Loss of Power
+1474|Power Conditioning Problem
+2965|Installation-Related Problem
+4049|Misassembled During Installation
+1318|Labelling, Instructions for Use or Training Problem
+2911|Device Markings/Labelling Problem
+2528|Expiration Date Error
+4050|Illegible Information
+4051|Inaccurate Information
+4052|Unclear Information
+4053|Missing Information
+2971|Lack of Maintenance Documentation or Guidelines
+1319|Inadequate Instructions for Healthcare Professional
+2956|Inadequate Instructions for Non-Healthcare Professional
+1643|Inadequate or Insufficient Training
+2949|Human-Device Interface Problem
+1487|Device Difficult to Setup or Prepare
+1496|Device Difficult to Program or Calibrate
+3134|Device Difficult to Maintain
+2958|Inadequate User Interface
+1670|Use of Device Problem
+3265|Device Handling Problem
+1126|Use of Incorrect Control Settings
+2017|Improper or Incorrect Procedure or Method
+1494|Off-Label Use
+1398|Misassembled
+3133|Misassembly by Users
+4054|Misassembly During Maintenance/Repair
+2993|Adverse Event Without Identified Device or Use Problem
+3189|No Apparent Adverse Event
+3190|Insufficient Information
+3191|Appropriate Term/Code Not Available

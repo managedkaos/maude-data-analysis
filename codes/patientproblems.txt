@@ -1,0 +1,998 @@
+1|Old To Be Deactivated
+1028|Failure to Anastomose
+1034|Abnormal Blood Gases
+1125|Contraindicated patient
+1154|Wound Dehiscence
+1156|Delamination
+1204|Vessel Or Plaque, Device Embedded In
+1288|Hemoconcentration
+1297|Host-Tissue Reaction
+1333|Intimal Dissection
+1341|LAL test (limulus amebocyte lysate)
+1353|Leaflet disruption
+1388|Membrane, breakage of
+1412|Muscle Stimulation
+1413|Necrosis, pressure
+1417|Nicks, cuts or tears of dura or other tissues by device
+1428|Ossification
+1436|Overcorrection
+1447|Corneal Pannus
+1498|Pulmonary Embolism
+1510|Radiation Overdose
+1551|Rupture due to stress from capsular contracture
+1593|Stacking Breaths
+1610|Syncope
+1684|AIDS, Acquired Immunodeficiency Syndrome
+1685|Abdominal Pain
+1688|Abortion
+1689|Abrasion
+1690|Abscess
+1692|Achalasia
+1693|Acoustic Shock
+1694|Acoustic Trauma
+1695|Adhesion(s)
+1696|Adult Respiratory Distress Syndrome
+1697|Air Embolism
+1698|Airflow, restricted
+1699|Airway Obstruction
+1701|Allergic reaction
+1702|Amputation
+1703|Anaphylactic Shock
+1704|Anaphylaxis
+1705|Anastomosis
+1706|Anemia
+1707|Awareness during Anaesthesia
+1708|Aneurysm
+1710|Angina
+1711|Anoxia
+1713|Antibiotics, Reaction To
+1714|Anticoagulation
+1715|Aortic Insufficiency
+1716|Aortic Regurgitation
+1717|Aortic Valve Stenosis
+1718|Low Apgar Score
+1719|Apheresis
+1720|Apnea
+1721|Arrhythmia
+1722|Arteriosclerosis
+1723|Arthritis
+1724|Rheumatoid Arthritis
+1725|Aspiration/Inhalation
+1726|Asthma
+1727|Asystole
+1728|Atherosclerosis
+1729|Atrial Fibrillation
+1730|Atrial Flutter
+1731|Atrial Tachycardia
+1732|Autoimmune Disorder
+1733|Autoimmune Reaction
+1735|Bacterial Infection
+1736|Biliary Cirrhosis
+1738|Bleeding
+1739|Bleeding, cerebral
+1741|Bleeding, intracranial
+1742|Blindness
+1743|Blister(s)
+1744|Bloating
+1745|Exposure to Body Fluids
+1747|Blood pooling
+1749|Transfusion with incompatible blood
+1750|Erosion
+1751|Bradycardia
+1752|Bronchitis
+1754|Bruise/Contusion
+1755|Radiation Burn
+1756|Bowel Burn
+1757|Burn(s)
+1758|Calcium Deposits/Calcification
+1759|Breast Cancer
+1760|Cancer, Other
+1761|Capsular Contracture
+1762|Cardiac Arrest
+1763|Myocardial Contusion
+1764|Cardiomyopathy
+1765|Cardiopulmonary Arrest
+1766|Cataract
+1767|Cataract, Induced
+1768|Cellulitis
+1770|Stroke/CVA
+1771|Infarction, Cerebral
+1772|Cerebrospinal Fluid Leakage
+1773|Cervical Changes
+1774|Cesarean section (c-section)
+1775|Chemosis
+1776|Chest Pain
+1777|Chorioamnionitis
+1778|Coagulation
+1779|Coagulation Disorder
+1781|Comatose
+1782|Congenital Defect/Deformity
+1783|Congestive Heart Failure
+1784|Conjunctivitis
+1785|Conjunctivitis, giant papillary
+1786|Connective Tissue Disease
+1787|Contusion
+1788|Core temperature rise
+1789|Corneal Abrasion
+1790|Corneal Decompensation
+1791|Corneal Edema
+1792|Corneal Perforation
+1793|Corneal Scar
+1794|Corneal Touch
+1795|Corneal transplant
+1796|Corneal Ulcer
+1797|Crushing Injury
+1798|Cyanosis
+1799|Cyclitis
+1800|Cyst(s)
+1801|Deafness
+1802|Death
+1803|Debris, Bone Shedding
+1805|Decreased Apgar
+1806|Degeneration
+1807|Dehydration
+1808|Dementia
+1809|Deposits
+1810|Device induced
+1811|Diarrhea
+1812|Purulent Discharge
+1813|Disseminated Intravascular Coagulation (DIC)
+1814|Dry Eye(s)
+1815|Dysphagia/ Odynophagia
+1816|Dyspnea
+1817|Non specific EKG/ECG Changes
+1818|Ecchymosis
+1819|Ectopic Pregnancy
+1820|Edema
+1822|Macular Edema
+1823|Microcystic Edema
+1824|Corneal Stromal Edema
+1826|Electro-Mechanical Dissociation
+1827|Electrocution
+1829|Embolism
+1830|Embolus
+1831|Emotional Changes
+1832|Pulmonary Emphysema
+1833|Encephalopathy
+1834|Endocarditis
+1835|Endophthalmitis
+1838|Cardiac Enzyme Elevation
+1839|Eructate
+1840|Erythema
+1841|Exsanguination
+1842|Extravasation
+1843|Extreme Exhaustion
+1844|Extrusion
+1845|Eye Injury
+1846|Facial Nerve Paralysis
+1847|Fainting
+1848|Fall
+1849|Fatigue
+1850|Feeding Problem
+1851|Asphyxia
+1852|Perinatal Brain Injury
+1854|Fetal core temperature rise
+1855|Death, Intrauterine Fetal
+1856|Fetal Distress
+1857|Fetal scalp laceration(s)
+1858|Fever
+1859|Fiberoptic fragments, unretrieved in body
+1860|Fibromyositis
+1861|Fibrosis
+1862|Fistula
+1864|Flashers
+1865|Flatus
+1866|Vitreous Floaters
+1868|Foreign Body Reaction
+1869|Foreign Body Sensation in Eye
+1870|Bone Fracture(s)
+1871|Micturition Urgency
+1872|Fungus
+1873|Gangrene
+1874|Gastritis
+1875|Glaucoma
+1876|Granuloma
+1877|Hair Loss
+1878|Corneal Clouding/Hazing
+1879|Head Injury
+1880|Headache
+1881|Hearing Impairment
+1882|Hearing Loss
+1883|Pyrosis/Heartburn
+1884|Hematoma
+1885|Hemodialysis
+1886|Hemolysis
+1887|Hemoptysis
+1888|Hemorrhage/Bleeding
+1889|Hemorrhage, Cerebral
+1890|Hemorrhage, Extradural
+1891|Intracranial Hemorrhage
+1892|Hemorrhage, Intraventricular
+1893|Hemorrhage, Subarachnoid
+1894|Hemorrhage, Subdural
+1895|Hemostasis
+1896|Hemothorax
+1897|Hepatitis
+1898|Herpes
+1899|Hiccups
+1900|Hives
+1901|Hyaloid face, rupture of
+1903|Hyperbilirubinemia
+1904|Hyperemia
+1905|Hyperglycemia
+1906|Hyperplasia
+1907|Hypersensitivity/Allergic reaction
+1908|High Blood Pressure/ Hypertension
+1909|Hyperthermia
+1910|Hyperventilation
+1911|Hyphema
+1912|Hypoglycemia
+1913|Hypopyon
+1914|Low Blood Pressure/ Hypotension
+1915|Hypothermia
+1916|Hypoventilation
+1917|Hypovolemic Shock
+1918|Hypoxia
+1922|Iatrogenic lesion
+1923|Idioventricular Rhythm
+1924|Failure of Implant
+1925|Impotence
+1926|Insufficiency, Valvular
+1927|Incompetent Cervix
+1928|Incontinence
+1930|Unspecified Infection
+1931|Infiltration into Tissue
+1932|Inflammation
+1933|Intraocular Infection
+1936|Intraocular Pressure, Delayed, Uncontrolled
+1937|Intraocular Pressure Increased
+1938|Intravasation
+1940|Iritis
+1941|Irritation
+1942|Ischemia
+1943|Itching Sensation
+1944|Keratitis
+1945|Acanthameba Keratitis
+1946|Laceration(s)
+1947|Left Ventricular Dysfunction
+1948|Left Ventricular Failure
+1949|Left Ventricular Hypertrophy
+1950|Lesion
+1951|Lesions in the target points
+1952|Damage to Ligament(s)
+1953|Liver Contusion
+1954|Liver Damage/Dysfunction
+1955|Liver Laceration(s)
+1956|Lupus
+1957|Cytomegaloviral Retinitis
+1958|Memory Loss/Impairment
+1959|Menstrual Irregularities
+1960|Microcyst(s)
+1961|Microperforation(s)
+1962|Miscarriage
+1963|Mitral Insufficiency
+1964|Mitral Regurgitation
+1965|Mitral Valve Stenosis
+1966|Muscle Spasm(s)
+1967|Muscle Weakness
+1968|Muscular Rigidity
+1969|Myocardial Infarction
+1970|Nausea
+1971|Necrosis
+1972|Necrosis Of Flap Tissue
+1974|Neonatal Deformities
+1975|Neonatal Hearing Impairment
+1976|Neonatal Hearing Loss
+1978|Neovascularization
+1979|Nerve Damage
+1980|Undesired Nerve Stimulation
+1981|Neural tissue damage
+1982|Neurological Deficit/Dysfunction
+1983|Neuropathy
+1984|Occlusion
+1985|Reocclusion
+1986|Optical Nerve Damage
+1987|Internal Organ Perforation
+1988|Overdose
+1989|Overmedicated
+1990|Oversedation
+1991|Device Overstimulation of Tissue
+1992|Polymyositis
+1994|Pain
+1995|Painful stimulation
+1997|Paralysis
+1998|Paresis
+1999|Peeling
+2000|Pelvic Inflammatory Disease
+2001|Perforation
+2002|Peripheral Vascular Disease
+2003|Peritoneal Laceration(s)
+2004|Phlebitis
+2009|Pleomorphism
+2010|Pleural Effusion
+2011|Pneumonia
+2012|Pneumothorax
+2013|Pocket Erosion
+2014|Megophthalmos
+2015|Positive antinuclear antibodies (ANA)
+2019|Pulmonary Dysfunction
+2020|Pulmonary Edema
+2021|Pulmonary Infarction
+2022|Pulmonary Insufficiency
+2023|Pulmonary Regurgitation
+2024|Pulmonary Valve Stenosis
+2025|Punctured blood vessels
+2026|Pupillary Block
+2027|Pus
+2028|Pyrogenic
+2032|Loss of Range of Motion
+2033|Rash
+2034|Raynauds Phenomenon
+2035|Local Reaction
+2036|Reaction, systemic
+2038|Red Eye(s)
+2039|Renal Disease, End Stage
+2041|Renal Failure
+2042|Surgical procedure, repeated
+2044|Respiratory arrest
+2045|Respiratory Distress
+2046|Respiratory Distress Syndrome of Newborns
+2047|Retinal Detachment
+2048|Retinal Injury
+2049|Retinal Degeneration
+2050|Retinal Tear
+2051|Retrograde
+2052|Retrograde flow
+2053|Rheumatic Heart Disease
+2054|Right Ventricular Dysfunction
+2055|Right Ventricular Failure
+2056|Right Ventricular Hypertrophy
+2058|Staphylococcus Aureus
+2059|ST Segment Elevation
+2060|Scar Tissue
+2061|Scarring
+2062|Scleroderma
+2063|Seizures
+2064|Seizures, Focal Motor
+2065|Increased Sensitivity
+2066|Sensitization
+2067|Sepsis
+2068|Septic Shock
+2069|Seroma
+2070|Severed digit(s), (finger or toe)
+2071|Venereal Disease
+2072|Shock
+2073|Sjogren''s Syndrome
+2074|Skin Discoloration
+2075|Skin Erosion
+2076|Skin Irritation
+2077|Skull Fracture
+2078|Ventricle, Abnormality Of
+2079|Soreness
+2081|Spinal Column Injury
+2082|Spotting
+2083|Sprain
+2084|Strangulation
+2085|Stricture
+2086|Stroke
+2087|Subepithelial infiltration
+2088|Suffocation
+2089|Sunset Syndrome
+2091|Swelling
+2092|Swollen Glands
+2093|Swollen Lymph Nodes
+2094|Synovitis
+2095|Tachycardia
+2096|Body temperature, elevated
+2097|Tentorial Tears
+2098|Toxins In Children
+2099|Therapeutic Effects, Unexpected
+2100|Thrombosis
+2101|Thrombus
+2102|Thyroid Problems
+2103|Tinnitus
+2104|Tissue Damage
+2105|Tissue failure
+2106|Optical Tissue, Breakdown Of
+2107|Torsades-de-Pointes
+2108|Toxic Shock Syndrome
+2109|Transient Ischemic Attack
+2110|Transplant of organ/tissue
+2111|Tricuspid Insufficiency
+2112|Tricuspid Regurgitation
+2113|Tricuspid Valve Stenosis
+2114|Twiddlers Syndrome
+2115|UGH (Uveitis-Glaucoma-Hyphema) Syndrome
+2116|Ulceration
+2117|Under no medication
+2118|Under no sedation
+2119|Urinary Retention
+2120|Urinary Tract Infection
+2121|Uterine Perforation
+2122|Uveitis
+2123|Abnormal Vaginal Discharge
+2124|Vaginal Mucosa Damage
+2126|Vasoconstriction
+2127|Vasodilatation
+2128|Vasospasm
+2129|Venipuncture
+2130|Ventricular Fibrillation
+2131|Ventricular Flutter
+2132|Ventricular Tachycardia
+2133|Cerebral Ventriculomeglia
+2134|Vertigo
+2135|Perforation of Vessels
+2136|Virus
+2137|Blurred Vision
+2138|Visual Impairment
+2139|Loss of Vision
+2140|Visual Disturbances
+2142|Vitreous Loss
+2143|Vitreous Hemorrhage
+2144|Vomiting
+2145|Weakness
+2146|Burning Sensation
+2147|Calcium deposit(s)
+2150|Epithelial marsupialization
+2152|Great Vessel Perforation
+2153|Hot Flashes/Flushes
+2155|Improved patient condition
+2156|Immunodeficiency
+2159|Misdiagnosis
+2161|Muscular Tics
+2162|Nipple Sensation Changes
+2164|Phosphene Visualization
+2165|Phototoxicity
+2166|Radiation Underdose
+2168|Seizures, Grand-Mal
+2169|Seizures, petit-mal
+2171|Tingling
+2172|Twitching
+2173|Corneal implant
+2174|Infiltrates
+2177|Surgery, prolonged
+2178|Staining
+2181|Vitritis
+2186|Headache, Lumbar Puncture
+2187|Jaundice
+2188|Uremia
+2189|Collagen disease
+2191|Chills
+2192|Concussion
+2193|Cramp(s)
+2194|Dizziness
+2195|Dysphasia
+2196|Electrolyte Imbalance
+2197|HIV, Human Immunodeficiency Virus
+2198|Mediastinal Shift
+2199|No Consequences Or Impact To Patient
+2200|Other (for use when an appropriate patient code cannot be identified)
+2201|Leak(s), perivalvular
+2202|Unknown (for use when the patient''s condition is not known)
+2206|Heart Failure
+2207|Toxemia
+2208|Rupture
+2209|Asphyxia, fetal
+2210|Hypoxia in Utero
+2211|Abortion, artificial
+2212|Complete Induced Abortion
+2213|Incomplete Induced Abortion
+2214|Induced Abortion
+2215|Missed Abortion
+2216|Abortion, therapeutic
+2217|Amnionitis
+2218|Anaphylactoid
+2219|Brain Injury
+2220|Cytomegalovirus (CMV) Infection
+2221|Convulsion
+2222|Convulsion, Clonic
+2223|Convulsion, Tonic
+2224|Dementia, Dialysis
+2225|Discharge
+2226|Cardiac Tamponade
+2227|Halo
+2228|Clouding, Central Corneal
+2229|Blinking, Excessive
+2230|Blurring
+2231|Corneal Infiltrates
+2232|Microcysts, Epithelial
+2233|Corneal sensitivity
+2234|Overwear Syndrome
+2235|Excessive Tear Production
+2236|Endotoxin
+2237|Chronic Obstructive Pulmonary Disease (COPD)
+2238|Myalgia
+2239|First Use Syndrome
+2240|Hernia
+2241|Wheal(s)
+2242|Hypernatremia
+2243|Hypovolemia
+2244|Infection, Direct
+2245|Infection, Indirect
+2246|Infection, Pyrogenic
+2247|Subclinical Infection
+2248|Viral Infection
+2249|Migration
+2250|Nonpyrogenic
+2251|Sneezing
+2252|Peritonitis
+2253|Dermatomyositis
+2254|Reaction, pyrogenic
+2255|Radiodermatitis
+2256|Radiation Sickness Syndrome
+2259|Regurgitation
+2260|Seizures, Focal
+2261|Seizures, Absence
+2262|Cardiogenic Shock
+2263|Stenosis
+2264|Shock, Insulin
+2265|Neurogenic Shock
+2266|Shock, Postoperative
+2267|Shock, Surgical
+2268|Shock, Traumatic
+2269|Toxoplasmosis, Acquired
+2270|Toxoplasmosis, Congenital
+2271|Therapeutic Response, Decreased
+2272|Therapeutic Response, Increased
+2273|Teratogenic Effects
+2274|Ulcer
+2275|Urinary Frequency
+2276|Nonresorbable materials, unretrieved in body
+2277|Sinus Perforation
+2278|Urticaria
+2279|Hemolytic Anemia
+2326|Pressure Sores
+2327|Physical Entrapment
+2328|Anxiety
+2329|Distress
+2330|Discomfort
+2331|Complaint, Ill-Defined
+2332|Blockage
+2333|Toxicity
+2334|Cardiac insufficiency
+2335|Regurgitation, Valvular
+2336|Stroke syndrome
+2337|Transfusion of blood products
+2348|Injury
+2349|Hip Fracture
+2351|Fracture, Arm
+2352|Hypoesthesia
+2353|Hypoesthesia, Arm/Hand
+2354|Hypoesthesia, Foot/Leg
+2355|Arthralgia
+2356|Joint Swelling
+2357|Surgical procedure
+2358|Scar Excision
+2359|Malaise
+2360|Deformity/ Disfigurement
+2361|Depression
+2362|Peroneal Nerve Palsy
+2363|Dyskinesia
+2364|Diabetic Ketoacidosis
+2365|Foreign body, removal of
+2366|Laparotomy
+2367|Pharyngitis
+2368|Sedation
+2369|Non-union Bone Fracture
+2370|Mammogram, Abnormal
+2371|Disability
+2372|Apicectomy
+2373|Joint Disorder
+2374|Joint Dislocation
+2375|Fasciitis
+2376|Mitral valve replacement
+2377|Osteolysis
+2378|Impaired Healing
+2388|Inadequate Pain Relief
+2389|Meningitis
+2390|Arachnoiditis, Spinal
+2392|Reintubate
+2393|Tracheostomy
+2394|Brain damage
+2395|Ventilator Dependent
+2396|Sore Throat
+2397|Overinflation of Lung
+2398|Laceration(s) of Esophagus
+2399|Perforation of Esophagus
+2400|Resuscitation
+2401|Breathing difficulties
+2402|Extubate
+2403|Reinfusion
+2406|Identified diagnosis
+2411|Nonspecific
+2414|Reaction
+2415|Numbness
+2416|Collapse
+2417|Coma
+2418|Loss of consciousness
+2419|Fungal Infection
+2420|Respiratory Tract Infection
+2421|Irritability
+2422|Obstruction/Occlusion
+2427|Sensitivity of Teeth
+2428|Tooth Fracture
+2429|Encephalitis
+2430|Forced Expiratory Volume Decreased
+2431|Forced Expiratory Volume Increased
+2432|Spinal Cord Injury
+2433|Neck Pain
+2434|Neck Stiffness
+2435|Decreased Peak Expiratory Flow rate
+2436|Increased Peak Expiratory Flow rate
+2437|Bronchopneumonia
+2438|Breast Neoplasm
+2439|Breast Mass
+2441|Nipple Ulceration
+2442|Reaction, Injection Site
+2443|Skin Inflammation
+2444|Sweating
+2445|Vitreous Detachment
+2446|Post Operative Wound Infection
+2447|Post Traumatic Wound Infection
+2448|Paraplegia
+2449|Quadriplegia
+2450|Blood glucose, low
+2451|Blood glucose, high
+2452|Diaphoresis
+2453|Cut(s)
+2455|Contamination, chemical
+2461|Body temperature, decreased
+2462|Needle Stick/Puncture
+2463|Chest Tightness/Pressure
+2464|Choking
+2465|Premature Labor
+2466|Nasal Obstruction
+2467|Palpitations
+2468|Pallor
+2469|Irregular Pulse
+2470|Myocarditis
+2471|Mitral Valve Prolapse
+2472|Aortic valve replacement
+2473|Tricuspid valve replacement
+2474|Pulmonary valve replacement
+2475|Prolapse
+2476|Heart valve repair
+2477|Low Oxygen Saturation
+2478|High Oxygen Saturation
+2479|Low Pulmonary Arterial Wedge Pressure
+2480|High Pulmonary Arterial Wedge Pressure
+2481|Pulmonary Arterial Wedge Pressure, Normal
+2482|Respiratory Acidosis
+2483|Respiratory Alkalosis
+2484|Respiratory Failure
+2485|Decreased Respiratory Rate
+2486|Increased Respiratory Rate
+2487|ST Segment Depression
+2488|Blood pressure, high
+2489|Blood pressure, low
+2491|Aortic Dissection
+2492|Leaflet disruption due to calcification
+2493|Ischemic Heart Disease
+2494|Leaflet disruption due to host tissue overgrowth
+2495|Leaflet disruption due to infection
+2496|Leaflet disruption, cause unknown
+2497|Suture Abrasion
+2498|Iatrogenic Source
+2499|Infective agents
+2500|Leaflet disruption due to suture abrasion
+2501|Low Cardiac Output
+2502|Organ Dehiscence
+2503|Deterioration
+2509|Stent distortion
+2510|Sudden Cardiac Death
+2511|Atrial Perforation
+2512|Mitral Perforation
+2513|Cardiac Perforation
+2514|Protrusion
+2515|Shaking/Tremors
+2516|Skin Tears
+2517|Sleep Dysfunction
+2518|Therapy/non-surgical treatment, aborted/stopped
+2519|Therapy/non-surgical treatment, additional
+2520|Therapy/non-surgical treatment/delayed/prolonged
+2521|Therapy/non-surgical treatment, unncessary
+2523|Eye Burn
+2525|Burn, incisional
+2530|Burn, Thermal
+2537|Corneal whitening
+2539|Corneal whitening
+2542|Underdose
+2543|Abdominal Cramps
+2544|Ambulation Difficulties
+2545|Autotransfusion
+2546|Breast feed, inability to
+2548|Blood pressure, increased
+2549|Caustic/Chemical Burns
+2550|Claudication
+2551|Cognitive Changes
+2552|Colostomy
+2553|Confusion/ Disorientation
+2554|Electric Shock
+2556|Heart rate, decreased
+2557|Heart rate, increased
+2558|Hematuria
+2559|Intubation
+2560|Lethargy
+2561|Missed Dose
+2562|Loss Of Pulse
+2563|Surgical procedure aborted/stopped
+2564|Surgical procedure, additional
+2565|Surgical procedure, delayed
+2566|Surgical procedure, unnecessary
+2569|Blood pressure, decreased
+2570|Chemical Exposure
+2571|Treatment with medication(s)
+2572|Vascular System (Circulation), Impaired
+2573|Manual ventilation required
+2580|Hospitalization required
+2596|Ascites
+2597|Blood Loss
+2598|Bronchospasm
+2599|Cephalohematoma
+2600|Clotting
+2601|Abdominal Distention
+2602|Drainage
+2603|Hemorrhage, Subgaleal
+2604|Polydipsia
+2605|Pseudoaneurysm
+2606|Diminished Pulse Pressure
+2607|Weight Changes
+2613|Wrinkling
+2617|Thinning of tissue
+2620|Ptosis
+2621|Bone loss
+2626|Closed Capsulotomy
+2627|Complete Heart Block
+2628|Exit Block
+2639|Capsular Bag Tear
+2640|Surgical incision, enlargement of
+2641|Lens, replacement of
+2642|Postoperative refraction, unexpected
+2643|Vitrectomy
+2645|No Patient Involvement
+2646|Inadequate Osseointegration
+2647|Nerve Proximity Nos (Not Otherwise Specified)
+2648|No Patient involvement
+2649|Osteointegration, inadequate
+2650|Nerve proximity NOS (not otherwise specified)
+2651|Osteopenia/ Osteoporosis
+2652|Valve Thrombosis
+2653|Valve dehiscence
+2654|Thromboembolism
+2655|Disc Impingement
+2656|Cusp Tear
+2661|Vaso-Vagal Response
+2662|Intraoperative Pain
+2663|Expulsion
+2664|Hypervolemia
+2665|Intermenstrual Bleeding
+2666|Heavier Menses
+2667|Follow-up bowel resection required
+2668|Bowel Perforation
+2669|Catheterization
+2670|Difficulty Chewing
+2671|Limited Mobility Of The Implanted Joint
+2672|Immobility of the joint
+2673|Altered color perception
+2674|Capsulotomy, anterior
+2675|Capsulotomy, posterior
+2676|Diplopia
+2677|Decreased BCVA (Best Corrected Visual Acuity)
+2678|Decreased VA, Distant (Visual Acuity)
+2679|Decreased VA, Intermediate (Visual Acuity)
+2680|Decreased VA, Near (Visual Acuity)
+2681|Tissue Breakdown
+2682|Alteration In Body Temperature
+2683|Decreased Sensitivity
+2684|Dysuria
+2685|Superficial (First Degree) Burn
+2686|Fluid Discharge
+2687|Foreign Body In Patient
+2688|Patient Problem/Medical Problem
+2689|Nervous System Injury
+2692|No Known Impact Or Consequence To Patient
+2694|Partial thickness (Second Degree) Burn
+2695|Test Result
+2696|Full thickness (Third Degree) Burn
+2697|Valvular Stenosis
+2698|Zonular Dehiscence
+3160|Vascular Dissection
+3161|Lead(s), Burn(s) From
+3162|Shock from Patient Lead(s)
+3163|R On T Phenomenon
+3164|Radiation Exposure, Unintended
+3165|Device Embedded In Tissue or Plaque
+3166|Patch Test, Abnormal Results Of
+3167|Fibrosis
+3189|Not Applicable
+3190|No Information
+3191|No Code Available
+3192|Missing Value Reason
+3193|Pregnancy
+3261|Multiple Organ Failure
+3262|Cancer
+3263|Lymphoma
+3264|Anaplastic Large Cell Lymphoma
+3271|Pericardial Effusion
+3272|Hydrocephalus
+3274|Constipation
+4401|Balance Problems
+4402|Encephalocele
+4403|Cerebral Edema
+4404|Cerebral Hyperperfusion Syndrome
+4405|Dementia
+4406|Convulsion/Seizure
+4407|Epilepsy
+4408|Status Epilepticus
+4409|Aphonia
+4410|Presyncope
+4411|Syncope/Fainting
+4412|Movement Disorder
+4413|Neuralgia
+4414|Peripheral Nervous Injury
+4415|Speech Disorder
+4416|Spinal Arachnoiditis
+4417|Hemorrhagic Stroke
+4418|Ischemia Stroke
+4419|Tactile Disorders
+4420|Hyperesthesia
+4421|Paresthesia
+4422|Taste Disorder
+4423|Ageusia
+4424|Dysgeusia
+4425|Tics/Tremor
+4426|Unspecified Nervous System Problem
+4427|Bruxism
+4428|Hallucination
+4429|Suicidal Ideation
+4430|Unspecified Mental, Emotional or Behavioural Problem
+4431|Thrombocytopenia
+4432|Swollen Lymph Nodes/Glands
+4433|Low White Blood Cell Count
+4434|Unspecified Blood or Lymphatic problem
+4435|Unspecified Immune System Problem
+4436|Ruptured Aneurysm
+4437|Arteriosclerosis/ Atherosclerosis
+4438|Embolism/Embolus
+4439|Foreign Body Embolism
+4440|Thrombosis/Thrombus
+4441|Unspecified Vascular Problem
+4442|Asystole
+4443|Ectopic Heartbeat
+4444|Heart Block
+4445|Cardiovascular Insufficiency
+4446|Heart Failure/Congestive Heart Failure
+4447|Myocardial Hypertrophy
+4448|Pericarditis
+4449|Valvular Insufficiency/ Regurgitation
+4450|Aortic Valve Insufficiency/ Regurgitation
+4451|Mitral Valve Insufficiency/ Regurgitation
+4452|Pulmonary Valve Insufficiency/ Regurgitation
+4453|Tricuspid Valve Insufficiency/ Regurgitation
+4454|Unspecified Heart Problem
+4455|Aspiration Pneumonitis
+4456|Bronchial Hemorrhage
+4457|Cough
+4458|Epistaxis
+4459|Pleural Empyema
+4460|Pulmonary Hypertension
+4461|Respiratory Arrest
+4462|Respiratory Insufficiency
+4463|Wheezing
+4464|Unspecified Respiratory Problem
+4465|Corneal Epithelial Microcysts
+4466|Eye Infections
+4467|Eye Pain
+4468|Intraocular Pressure Decreased
+4469|Toxic Anterior Segment Syndrome (TASS)
+4470|UGH (Uveitis Glaucoma Hyphema) Syndrome
+4471|Unspecified Eye / Vision Problem
+4472|Partial Hearing Loss
+4473|Total Hearing Loss
+4474|Unspecified Ear or Labyrinth Problem
+4475|Gastroesophageal Burn
+4476|Gastrointestinal Hemorrhage
+4477|Gastrointestinal Regurgitation
+4478|Hematemesis
+4479|Intra-Abdominal Hemorrhage
+4480|Melena
+4481|Pancreatitis
+4482|Rectal Anastomotic Leakage
+4483|Retroperitoneal Hemorrhage
+4484|Salivary Gland Problem
+4485|Dry Mouth
+4486|Salivary Hypersecretion
+4487|Stenosis of the esophagus
+4488|Stomach Ulceration
+4489|Stomatitis
+4490|Glossitis
+4491|Unspecified Gastrointestinal Problem
+4492|Liver Failure
+4493|Unspecified Hepatic or Biliary Problem
+4494|Hyponatremia
+4495|Hormonal Imbalance
+4496|Premature Menopause
+4497|Vitamin Deficiency
+4498|Increased Intra-Peritoneal Volume (IIPV)
+4499|Renal Impairment
+4501|Urethral Stenosis/Stricture
+4502|Kidney Infection
+4503|Unspecified Kidney or Urinary Problem
+4504|Breast Discomfort/Pain
+4505|Dyspareunia
+4506|Fallopian Tube Perforation
+4507|Genital Bleeding
+4508|Menorrhagia
+4509|Rectovaginal Fistula
+4510|Sexual Dysfunction
+4511|Erectile Dysfunction
+4512|Vesicovaginal Fistula
+4513|Unspecified Reproductive System or Breast Problem
+4514|Spontaneous Abortion
+4515|Complete Neonatal Hearing Loss
+4516|Partial Neonatal Hearing loss
+4517|Pregnancy with a Contraceptive Device
+4518|Limb Fracture
+4519|Multiple Fractures
+4520|Vertebral Fracture
+4521|Cramp(s) /Muscle Spasm(s)
+4522|Difficulty Chewing
+4523|Hyperextension
+4524|Intervertebral Disc Compression or Protrusion
+4525|Subluxation
+4526|Joint Laxity
+4527|Ankylosis
+4528|Joint Contracture
+4529|Malunion of Bone
+4530|Metal Related Pathology
+4531|Muscle Hypotonia
+4532|Muscle/Tendon Damage
+4533|Osteomyelitis
+4534|Unequal Limb Length
+4535|Unspecified Musculoskeletal problem
+4536|Angioedema
+4537|Blister
+4538|Increased Sensitivity
+4539|Cryogenic Burn
+4540|Skin Burning Sensation
+4541|Cancer Cells Dissemination
+4542|Localized Skin Lesion
+4543|Skin Disorders
+4544|Skin Infection
+4545|Skin Inflammation/ Irritation
+4546|Contact Dermatitis
+4547|Eczema
+4548|Subcutaneous Nodule
+4549|Breast Implant Associated Anaplastic Large Cell Lymphoma (BIA ALCL)
+4550|Leiomyosarcoma
+4551|Nodule
+4552|Solid Tumour
+4553|Drug Resistant Bacterial Infection
+4554|Pyogenic Infection
+4555|Sexually Transmitted Infection
+4556|Transmissible Spongiform Encephalopathy(TSE)
+4557|Bone Shedding Debris
+4558|Easy Bruising
+4559|Unspecified Tissue Injury
+4560|External Prosthetic Device Pain
+4561|Implant Pain
+4562|Injection Site Reaction
+4563|Twiddlers Syndrome
+4564|Unintended Extubation
+4565|Unintended Radiation Exposure
+4567|Lactate Dehydrogenase Increased
+4568|Alteration in Body Temperature
+4569|Decreased Appetite
+4570|Increased Appetite
+4571|Fecal Incontinence
+4572|Urinary Incontinence
+4573|Physical Asymmetry
+4574|Reaction to Medicinal Component of Device
+4575|Hypoglycemic Shock
+4576|Restenosis
+4577|Swelling/ Edema
+4578|Peripheral Edema
+4579|Double Capsule
+4580|Insufficient Information
+4581|Appropriate Clinical Signs, Symptoms, Conditions Term / Code Not Available
+4582|No Clinical Signs, Symptoms or Conditions
