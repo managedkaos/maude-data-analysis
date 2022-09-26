@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "maude2015",
+            "database": "${workspaceFolder:maude-data-analysis}/2015/database.sqlite3"
+        }
+    ]
+}
