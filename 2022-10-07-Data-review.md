@@ -8,6 +8,25 @@ Data set needs to include:
 - device information (key on type?)
 
 ## Data review by data file
+
+### `foidevproblem.txt`:
+- All fields needed from this file
+- _*THERE ARE NO COLUMN HEADERS ARE PRESENT IN THE FILE*_
+- Add the following column headers manually
+```
+. MDR_REPORT_KEY
+. DEVICE_PROBLEM_CODE
+```
+
+### `deviceproblemcodes.txt`:
+- All fields needed from this file
+- _*THERE ARE NO COLUMN HEADERS ARE PRESENT IN THE FILE*_
+- Add the following column headers manually
+```
+. DEVICE_PROBLEM_CODE
+. DEVICE_PROBLEM_TEXT
+```
+
 ### `foitext2015.txt`:
 - All fields are needed
 ```
@@ -51,14 +70,6 @@ x DATE_RETURNED_TO_MANUFACTURER
 x DEVICE_AGE_TEXT
 x DEVICE_EVALUATED_BY_MANUFACTUR
 x COMBINATION_PRODUCT_FLAG
-```
-
-### `foidevproblem.txt`:
-- All fields needed from this file
-- _*NO HEADERS ARE PRESENT IN THE FILE*_
-```
-. MDR_REPORT_KEY
-. DEVICE_PROBLEM_CODE
 ```
 
 ### `mdrfoiThru2021.txt`:
@@ -152,7 +163,6 @@ x EXEMPTION_NUMBER
 ### `patientThru2021.txt`:
 - Fields marked with 'x' are not needed;
 - _*No fields needed from this file*_
-
 ```
 x MDR_REPORT_KEY
 x PATIENT_SEQUENCE_NUMBER
@@ -175,14 +185,20 @@ x FOI_TEXT
 
 ## Summary of data needed
 ```
-- `foitext2015.txt`:
+1. `foidevproblem.txt`:
+	. MDR_REPORT_KEY
+	. DEVICE_PROBLEM_CODE
+2. `deviceproblemcodes.txt`:
+	. DEVICE_PROBLEM_CODE
+	. DEVICE_PROBLEM_TEXT
+3. `foitext2015.txt`:
 	. MDR_REPORT_KEY
 	. MDR_TEXT_KEY
 	. TEXT_TYPE_CODE
 	. PATIENT_SEQUENCE_NUMBER
 	. DATE_REPORT
 	. FOI_TEXT
-- `DEVICE2015.txt`:
+4. `DEVICE2015.txt`:
 	. MDR_REPORT_KEY
 	. DEVICE_SEQUENCE_NO
 	. BRAND_NAME
@@ -191,10 +207,7 @@ x FOI_TEXT
 	. MODEL_NUMBER
 	. DEVICE_AVAILABILITY
 	. DEVICE_REPORT_PRODUCT_CODE
-- `foidevproblem.txt`:
-	. MDR_REPORT_KEY
-	. DEVICE_PROBLEM_CODE
-- `mdrfoiThru2021.txt`:
+5. `mdrfoiThru2021.txt`:
 	. MDR_REPORT_KEY
 	. REPORT_NUMBER
 	. REPORT_SOURCE_CODE
